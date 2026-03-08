@@ -1,6 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
+  base: '/techno-shaman-banya/',
   root: '.',
   publicDir: 'public',
   build: {

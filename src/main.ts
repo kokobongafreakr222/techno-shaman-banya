@@ -6,6 +6,7 @@
  */
 
 import * as PIXI from 'pixi.js';
+import './style.css';
 import { MatrixRain } from './effects/MatrixRain.js';
 import { NeonParticles } from './effects/NeonParticles.js';
 import { NeonGrid } from './effects/NeonGrid.js';
